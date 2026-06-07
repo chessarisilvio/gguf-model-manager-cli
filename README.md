@@ -78,8 +78,8 @@ Output di esempio:
 ```
 Path                                                               Quant     Ctx     VRAM Est (MB)
 ------------------------------------------------------------------------------------------------------------------------
-/home/rust/models/llama-3-8b-q5_k_m.gguf                           Q5_K_M    8192    6144
-/home/rust/models/mistral-7b-v0.1-q4_k_m.gguf                      Q4_K_M    4096    4096
+~/models/llama-3-8b-q5_k_m.gguf                           Q5_K_M    8192    6144
+~/models/mistral-7b-v0.1-q4_k_m.gguf                      Q4_K_M    4096    4096
 ```
 
 ## Stato

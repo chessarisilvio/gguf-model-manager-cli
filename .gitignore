@@ -140,4 +140,7 @@ Thumbs.db
 settings.local.json
 
 # Vault (should not be in repo)
-/media/rust/hd-linux/home/rust/Scrivania/claude-memorie/
+# Worker AI artifacts
+worker-log.txt
+TASK.md
+PROGRESS.md
